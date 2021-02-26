@@ -1,2 +1,2 @@
 # personal-notes
-Here I write all kind of anottations that I found interesting
+Here I'll write all kind of notes that I find interesting
