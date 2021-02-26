@@ -60,3 +60,8 @@ https://www.canva.com/
     - Use floor fade
 
     <img src="./images/floor-fade.jpg" alt="floor-fade" width="500" height="300">
+
+  - Some examples:
+    - https://jsfiddle.net/drpak8vy/1/
+    - http://jsfiddle.net/qg83m36p/
+    - http://jsfiddle.net/gRzPF/409/
