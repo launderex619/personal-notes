@@ -1,5 +1,7 @@
 ## Colors
 
+Picking a color for a website means more then picking your favorite color and turning it into a design. It means picking the right color in order to get the desired response from your audience. Color really makes a difference. This happens because there are psychological effects behind each color
+
 - ### Use only one base color.
 
   https://flatuicolors.com/
